@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @MightyJamesMarion
+
 I’m interested in:
 - 👀 Techy stuff
 - 👀 Programming
 - 👀 Cybersecurity
 - 👀 System/Network/Cloud Admin
+
 I’m currently learning:
 - 🌱 Manual test case stuff
 - 🌱 Web browser stuff
